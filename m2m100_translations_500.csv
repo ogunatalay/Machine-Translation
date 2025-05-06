@@ -1,0 +1,501 @@
+﻿Orijinal,Çeviri,Süre (s)
+The quick brown fox jumps over the lazy dog.,"Hızlı kahverengi fox, yumuşak köpeğin üstüne atlar.",1.4887759685516357
+Artificial intelligence is changing the world.,Yapay zeka dünyayı değiştiriyor.,0.6402773857116699
+Machine learning is a subset of artificial intelligence.,Makine öğrenimi yapay zeka alt kümesidir.,0.8061702251434326
+Natural language processing helps machines understand human language.,Doğal dil işleme makinelerin insan dilini anlamalarına yardımcı olur.,0.3864009380340576
+Deep learning models are a type of neural network.,Derin öğrenme modelleri bir tür sinir ağıdır.,0.4233126640319824
+Data science is an interdisciplinary field that uses scientific methods.,"Bilgi Bilimi, bilimsel yöntemleri kullanan disiplinlerarası bir alandır.",0.5490655899047852
+The weather today is sunny with a slight breeze.,Bugün hava hafif bir fırtına ile güneşli.,0.6970779895782471
+I love reading books about technology and science.,Teknoloji ve bilim hakkında kitap okumayı çok seviyorum.,0.48587584495544434
+Humans and computers are collaborating more than ever before.,İnsanlar ve bilgisayarlar her zamankinden daha fazla işbirliği yapıyor.,1.2643587589263916
+The internet has revolutionized how we communicate and share information.,"İnternet, iletişim ve bilgi paylaşımını devrimci hale getirdi.",0.7604434490203857
+Space exploration is one of humanity's greatest achievements.,Uzay keşfi insanlığın en büyük başarılarından biridir.,0.28168630599975586
+Electric cars are becoming more popular in modern society.,Elektrikli araçlar modern toplumda giderek daha popüler hale geliyor.,0.3268241882324219
+The stock market can be unpredictable and volatile.,Borsa tahmin edilemez ve değişken olabilir.,0.2809276580810547
+Climate change is a global challenge that needs urgent attention.,"İklim değişikliği, acil bir dikkat gerektiren küresel bir meydan okuma.",0.45082998275756836
+Cybersecurity is crucial to protect data from malicious attacks.,Bilgisayar güvenliği kötü amaçlı saldırılardan veri korumak için çok önemlidir.,0.40076613426208496
+Smartphones have become an essential part of daily life.,Akıllı telefonlar günlük yaşamın önemli bir parçası haline gelmiştir.,0.31969165802001953
+Social media platforms influence how people interact online.,"Sosyal medya platformları, insanların çevrimiçi nasıl etkileşime girdiğini etkiler.",0.41791272163391113
+The internet of things is making everyday devices smarter.,"Her şeyin interneti, günlük cihazları daha akıllı hale getiriyor.",0.32968640327453613
+Renewable energy sources like solar power are growing in popularity.,Güneş enerjisi gibi yenilenebilir enerji kaynakları popülerlikte artıyor.,0.37900757789611816
+Globalization is shaping economies and cultures around the world.,"Küreselleşme, dünyadaki ekonomileri ve kültürleri şekillendiriyor.",0.36681270599365234
+The healthcare industry is undergoing rapid technological advancements.,Sağlık sektörü hızlı teknolojik gelişmelere maruz kalıyor.,0.4726095199584961
+Robots are performing tasks that were once done by humans.,Robotlar bir zamanlar insanlar tarafından yapılmış olan görevleri yerine getiriyorlar.,0.9003534317016602
+Quantum computing has the potential to revolutionize many industries.,"Kuantum bilgisayar, birçok endüstriyi devrimci hale getirme potansiyeline sahiptir.",0.9515867233276367
+The pandemic has changed the way people work and live.,"Panda, insanların nasıl çalıştıklarını ve yaşadıklarını değiştirdi.",0.29795312881469727
+Artificial intelligence is used in voice assistants like Siri.,"Yapay zeka, Siri gibi ses asistanlarında kullanılır.",0.27596449851989746
+The rise of e-commerce is changing traditional retail models.,E-ticaret artışı geleneksel perakende modellerini değiştiriyor.,0.42115330696105957
+Self-driving cars are expected to be common on the roads in the future.,Gelecekte otomobiller yollarda yaygın olacak.,0.30185508728027344
+Big data is transforming how businesses make decisions.,"Büyük veriler, işletmelerin karar verme biçimini dönüştürüyor.",0.7300682067871094
+The advancement of 5G technology is improving mobile connectivity.,"5G teknolojisinin gelişimi, mobil bağlantıların geliştirilmesidir.",0.8374278545379639
+Social distancing is a measure to prevent the spread of infectious diseases.,"Sosyal uzaklaştırma, bulaşıcı hastalıkların yayılmasını önlemek için bir önlemdir.",0.5528388023376465
+Technology is reshaping how we learn and access information.,"Teknoloji, nasıl öğreneceğimizi ve bilgi edineceğimizi yeniden canlandırıyor.",0.4503204822540283
+Gaming has evolved into a multi-billion dollar industry.,"Oyunlar, milyar dolarlık bir endüstriye dönüşmüştür.",0.36040639877319336
+Smart home devices can automate daily tasks like controlling lights.,"Akıllı ev cihazları, kontrol ışıkları gibi günlük görevleri otomatik hale getirebilir.",0.5136780738830566
+SpaceX is working towards making space travel more affordable.,"SpaceX, uzay yolculuğunu daha uygun hale getirmek için çalışıyor.",0.421489953994751
+3D printing is changing how we produce goods and objects.,"3D baskı, ürün ve nesnelerin nasıl üretildiğini değiştiriyor.",0.425264835357666
+The development of AI in healthcare is improving diagnosis accuracy.,"Sağlık alanında AI’nin geliştirilmesi, teşhis doğruluğunu iyileştirir.",0.5192580223083496
+Virtual reality is being used for immersive gaming experiences.,Sanal gerçeklik etkileyici oyun deneyimleri için kullanılır.,0.4143235683441162
+Smart watches are tracking our health metrics in real time.,Akıllı saatler sağlık metriklerimizi gerçek zamanlı olarak izliyor.,0.3153223991394043
+Cloud computing has made data storage more accessible and scalable.,"Bulut bilgisayar, veri depolamasını daha erişilebilir ve ölçeklenebilir hale getirdi.",0.4518158435821533
+Education systems are integrating technology into their curriculums.,Eğitim sistemleri teknolojiyi ders programlarına entegre ediyor.,0.26587700843811035
+Electric vehicles are more environmentally friendly than gasoline cars.,Elektrikli araçlar benzinli araçlardan daha çevre dostu.,0.3189418315887451
+Machine translation helps break down language barriers.,"Makine çevirisi, dil engellerini kırmaya yardımcı olur.",0.3033590316772461
+The rise of remote work is shifting workplace dynamics.,"Uzaktan çalışma dinamiklerinin yükselişi, çalışma alanının dinamiklerini değiştirir.",0.38010215759277344
+Electric bikes are becoming a popular alternative to cars.,Elektrikli bisikletler otomobiller için popüler bir alternatif haline geliyor.,0.35036182403564453
+Augmented reality is enhancing user experiences in retail.,"Gelişmiş gerçeklik, kullanıcı deneyimlerini perakende sektöründe geliştirir.",0.3525364398956299
+Blockchain technology is changing the way we store and transfer data.,"Blockchain teknolojisi, veri depolama ve aktarma yolunu değiştiriyor.",0.38379335403442383
+The rapid growth of e-learning platforms is revolutionizing education.,E-öğrenme platformlarının hızlı büyümesi eğitimini devrimci hale getiriyor.,0.4153108596801758
+Climate change is affecting weather patterns worldwide.,İklim değişikliği dünya çapında hava koşullarını etkiler.,0.32538795471191406
+The gig economy is changing how people approach work and employment.,"Gig ekonomisi, insanların iş ve işe nasıl yaklaştıklarını değiştiriyor.",0.3535945415496826
+Robots are being used in manufacturing for greater efficiency.,Robotlar daha yüksek verimlilik için üretimde kullanılıyor.,0.26918601989746094
+Autonomous drones are being developed for delivery services.,Teslimat hizmetleri için otonom drone geliştiriliyor.,0.2881600856781006
+Artificial intelligence is improving the accuracy of medical diagnoses.,"Yapay zeka, tıbbi teşhislerin doğruluğunu arttırır.",0.36108946800231934
+Technology is driving innovation in agriculture through automation.,"Teknoloji, otomasyon yoluyla tarımda yenilikleri teşvik ediyor.",0.3154184818267822
+Data privacy is a growing concern in the digital age.,"Verilerin gizliliği, dijital çağda artan bir kaygıdır.",0.3514103889465332
+Sustainable development is a key focus for future generations.,"Sürdürülebilir kalkınma, gelecek nesiller için önemli bir odak noktasıdır.",0.3761742115020752
+Mobile applications are transforming industries like healthcare and finance.,Mobil uygulamalar sağlık ve finans gibi endüstrileri dönüştürüyor.,0.3027820587158203
+Artificial intelligence can help detect fraudulent activities in banking.,"Yapay zeka, bankacılıkta dolandırıcılık faaliyetlerini tespit etmeye yardımcı olabilir.",0.4079756736755371
+Wearable technology is changing how we track fitness and health.,"Taşınabilir teknoloji, fitness ve sağlığı nasıl izlediğimizi değiştiriyor.",0.3593127727508545
+The use of renewable energy is crucial for a sustainable future.,"Yenilenebilir enerji kullanımı, sürdürülebilir bir gelecek için çok önemlidir.",0.33035898208618164
+Internet censorship is a controversial issue in many countries.,İnternet sorumluluğu birçok ülkede tartışmalı bir konu.,0.283374547958374
+The digital divide creates inequality in access to technology.,"Dijital bölünme, teknolojiye erişimde eşitsizlik yaratır.",0.3475148677825928
+Robotic surgery is becoming more common in medical procedures.,Robot ameliyatı tıbbi prosedürlerde daha yaygındır.,0.34560608863830566
+Gene editing has the potential to cure genetic diseases.,Gen düzenleme genetik hastalıkları tedavi etme potansiyeline sahiptir.,0.3427846431732178
+Smart cities are integrating technology for better urban management.,Akıllı şehirler daha iyi kentsel yönetim için teknolojiyi entegre ediyor.,0.3649718761444092
+The rise of subscription services is changing how we consume media.,"Abonelik hizmetlerinin yükselişi, medyayı nasıl kullandığımızı değiştiriyor.",0.3688979148864746
+The use of drones in agriculture is improving crop yields.,"Tarımda drone kullanımı, hasat üretimini arttırıyor.",0.2974390983581543
+AI-powered chatbots are being used for customer service.,AI güçlendirilmiş chatbotlar müşteri hizmetleri için kullanılıyor.,0.4714369773864746
+Cryptocurrencies are changing the way people think about money.,Cryptocurrencies insanların para hakkında nasıl düşündüğünü değiştiriyor.,0.42723679542541504
+Online streaming services have reshaped the entertainment industry.,Online streaming hizmetleri eğlence endüstrisini yeniden canlandırdı.,0.464322566986084
+The development of renewable energy is crucial for reducing carbon emissions.,"Yenilenebilir enerji geliştirmek, karbon emisyonlarını azaltmak için çok önemlidir.",0.4364316463470459
+Cyber attacks are becoming more sophisticated and widespread.,Siber saldırılar giderek daha sofistike ve yaygın hale geliyor.,0.3851926326751709
+Smart glasses are enhancing user experiences through augmented reality.,"Akıllı gözlükler, artan gerçeklik yoluyla kullanıcı deneyimlerini geliştirir.",0.4565708637237549
+Facial recognition technology is being used for security purposes.,Yüz tanıma teknolojisi güvenlik amaçları için kullanılmaktadır.,0.35865259170532227
+Driverless vehicles are expected to reduce traffic accidents.,Sürücüsüz araçlar trafik kazalarını azaltacak.,0.44173359870910645
+5G networks are enabling faster internet speeds and connectivity.,5G ağları daha hızlı internet hızı ve bağlantı sağlar.,0.32079148292541504
+The use of AI in education is personalizing learning experiences.,Eğitimde AI’nin kullanımı öğrenme deneyimlerini kişiselleştirmektir.,0.3316681385040283
+Digital currencies are creating new opportunities in the financial sector.,Dijital para birimleri finans sektöründe yeni fırsatlar yaratıyor.,0.29613828659057617
+Autonomous vehicles are becoming a reality on public roads.,Otonom araçlar halk yollarında bir gerçeklik haline geliyor.,0.2514970302581787
+Data analytics is helping businesses understand customer behavior.,"Veri analizi, işletmelerin müşteri davranışlarını anlamalarına yardımcı olur.",0.32690954208374023
+The adoption of smart technologies is improving everyday life.,Akıllı teknolojilerin uygulanması günlük yaşamı iyileştirir.,0.30752062797546387
+Digital marketing is transforming how brands reach their customers.,"Dijital pazarlama, markaların müşterilerine nasıl ulaştığını dönüştürüyor.",0.3675541877746582
+Renewable energy sources are helping to reduce reliance on fossil fuels.,"Yenilenebilir enerji kaynakları, fosil yakıtlara olan güvenini azaltmaya yardımcı olur.",0.39117884635925293
+Blockchain is being used to secure online transactions.,"Blockchain, çevrimiçi işlemleri güvence altına almak için kullanılıyor.",0.3243248462677002
+The growth of cloud services is changing how companies store data.,"Bulut hizmetlerinin büyümesi, şirketlerin veri depolama biçimlerini değiştiriyor.",0.39716649055480957
+AI can predict trends and make decisions in business applications.,"AI, trendleri tahmin edebilir ve iş uygulamalarında karar verebilir.",0.32506752014160156
+Telemedicine is providing remote healthcare services.,Telemedicine uzaktan sağlık hizmetleri sunmaktadır.,0.23355913162231445
+The rise of influencer marketing is reshaping advertising strategies.,Influencer Marketing’in yükselişi reklam stratejilerini yeniden canlandırıyor.,0.3442802429199219
+Nanotechnology is making significant advances in medicine.,"Nanoteknoloji, tıp alanında önemli ilerlemeler yapıyor.",0.3049790859222412
+Electric public transport systems are gaining popularity.,Elektrikli toplu taşıma sistemleri popülerlik kazanıyor.,0.30064916610717773
+Renewable energy is playing a key role in reducing global carbon emissions.,"Yenilenebilir enerji, küresel karbon emisyonlarını azaltmada önemli bir rol oynamaktadır.",0.39871907234191895
+The internet is changing how people communicate and form relationships.,"İnternet, insanların nasıl iletişim kurduğunu ve ilişkilerini şekillendirdiğini değiştiriyor.",0.42776918411254883
+The rise of the sharing economy is reshaping how we own and share resources.,"Paylaşım ekonomisinin yükselişi, sahip olduğumuz ve kaynaklarımızı nasıl paylaştığımızı yeniden canlandırıyor.",0.4738161563873291
+The global economy is increasingly influenced by technology.,Dünya ekonomisi teknolojiden giderek daha fazla etkileniyor.,0.2714958190917969
+Artificial intelligence is creating new job opportunities in tech.,"Yapay zeka, teknolojide yeni iş fırsatları yaratıyor.",0.28866100311279297
+The proliferation of mobile devices is reshaping how we interact with technology.,"Mobil cihazların yaygınlaşması, teknolojiyle nasıl etkileşime girdiğimizi yeniden canlandırıyor.",0.4433753490447998
+Electric scooters are becoming a popular mode of urban transport.,Elektrikli scooters şehir taşımacılığının popüler bir yöntemi haline geliyor.,0.35577988624572754
+Augmented reality is being used for virtual try-ons in retail.,"Gelişmiş gerçeklik, perakende sanal denemeler için kullanılıyor.",0.3503272533416748
+Digital transformation is changing how businesses operate.,"Dijital dönüşüm, şirketlerin nasıl çalıştığını değiştiriyor.",0.31825685501098633
+Cybersecurity is crucial for protecting sensitive data online.,İnternette hassas verilerin korunması için kiber güvenlik çok önemlidir.,0.3304767608642578
+The rise of smart homes is making our lives more convenient.,Akıllı evlerin yükselişi hayatımızı daha rahat hale getiriyor.,0.2976393699645996
+The gig economy is growing rapidly in various industries.,Gig ekonomisi çeşitli endüstrilerde hızla büyüyor.,0.3120419979095459
+3D printing is disrupting traditional manufacturing processes.,"3D baskı, geleneksel üretim süreçlerini bozuyor.",0.27570080757141113
+Online privacy is a major concern in the digital age.,"Çevrimiçi gizlilik, dijital çağda önemli bir kaygıdır.",0.35559940338134766
+AI-driven recommendations are changing the way we discover content online.,"Yapay zeka tarafından yönlendirilen öneriler, çevrimiçi içeriği keşfetmenin yolunu değiştiriyor.",0.6671099662780762
+The growth of online shopping is reshaping the retail landscape.,"Online alışverişin büyümesi, perakende manzarasını yeniden canlandırıyor.",0.4171624183654785
+Machine learning is being applied in various industries.,Makine öğrenimi çeşitli endüstrilerde uygulanmaktadır.,0.3669915199279785
+The future of work is being shaped by automation and AI.,İşin geleceği otomasyon ve AI ile şekillendiriliyor.,0.38974618911743164
+Digital identity verification is becoming more common.,Dijital kimlik doğrulama giderek daha yaygındır.,0.3544957637786865
+Remote learning is changing the traditional education model.,Uzaktan öğrenme geleneksel eğitim modelini değiştiriyor.,0.35750508308410645
+Sustainable fashion is gaining popularity as people seek eco-friendly alternatives.,"Sürdürülebilir moda, insanlar çevre dostu alternatifleri ararken popülerlik kazanıyor.",0.6491885185241699
+The adoption of AI in business is improving operational efficiency.,"İşletmelerde AI'nin uygulanması, işletme verimliliğini arttırır.",0.511221170425415
+Cryptocurrencies are becoming more mainstream in global markets.,Küresel piyasalarda kripto para birimleri giderek yaygınlaşıyor.,0.3605678081512451
+Data protection laws are evolving to address privacy concerns.,Gizlilik sorunlarını çözmek için veri koruma yasaları gelişiyor.,0.30390501022338867
+Blockchain is transforming the supply chain and logistics industry.,"Blockchain, tedarik zincirini ve lojistik endüstrisini dönüştürüyor.",0.37774038314819336
+The rise of mobile payments is changing how people make transactions.,"Mobil ödeme artışı, insanların işlem yapma biçimlerini değiştiriyor.",0.34524059295654297
+Artificial intelligence is helping improve customer experiences.,"Yapay zeka, müşteri deneyimlerini geliştirmeye yardımcı olur.",0.29915308952331543
+The use of drones in delivery services is becoming more widespread.,Teslimat hizmetlerinde drone kullanımı giderek yaygınlaşıyor.,0.3277873992919922
+Virtual assistants are helping people manage their daily tasks.,"Sanal asistanlar, insanların günlük görevlerini yönetmelerine yardımcı olur.",0.29697179794311523
+3D printing is being used in the medical field for prosthetics and implants.,"3D baskı, prostetik ve implantlar için tıbbi alanda kullanılıyor.",0.36487460136413574
+Electric cars are becoming more affordable for consumers.,Elektrikli araçlar tüketicilere daha uygun hale geliyor.,0.2673487663269043
+Cloud storage is becoming increasingly popular for personal and business data.,Bulut depolama kişisel ve iş verileri için giderek daha popüler hale geliyor.,0.40968799591064453
+The growth of streaming platforms is changing how people consume media.,"Streaming platformlarının büyümesi, insanların medyayı nasıl tükettiğini değiştiriyor.",0.3931465148925781
+"AI is revolutionizing industries such as healthcare, finance, and logistics.","Yapay zeka, sağlık, finans ve lojistik gibi endüstrileri devrimci hale getiriyor.",0.42111659049987793
+The digital economy is creating new opportunities for innovation.,"Dijital ekonomi, yenilik için yeni fırsatlar yaratıyor.",0.27209019660949707
+The use of AI in marketing is helping brands target the right audience.,"Pazarlamada yapay zeka kullanımı, markaların doğru seyirciyi hedeflemesine yardımcı olur.",0.43022727966308594
+Artificial intelligence is helping detect diseases in medical imaging.,"Yapay zeka, tıbbi görüntülerde hastalıkları tespit etmeye yardımcı olur.",0.3890836238861084
+Sustainable development is crucial for protecting the planet.,"Sürdürülebilir kalkınma, gezegenin korunması için çok önemlidir.",0.34766340255737305
+Data mining is uncovering patterns and trends in large datasets.,"Veri madenciliği, büyük veri kümelerinde modeller ve eğilimleri keşfeder.",0.38282227516174316
+The rise of wearable devices is changing how we track health metrics.,"Taşınabilir cihazların yükselişi, sağlık metriklerini nasıl izlediğimizi değiştiriyor.",0.42320752143859863
+Artificial intelligence is being used in autonomous vehicles.,Yapay zeka otonom araçlarda kullanılmaktadır.,0.23998308181762695
+Digital currencies are challenging traditional banking systems.,Dijital para birimleri geleneksel bankacılık sistemlerini zorlaştırıyor.,0.3316044807434082
+Cloud computing is making business operations more flexible.,Bulut bilgisayarları iş faaliyetlerini daha esnek hale getiriyor.,0.3016645908355713
+The future of technology lies in innovation and sustainable practices.,Teknolojinin geleceği yenilik ve sürdürülebilir uygulamalar içindedir.,0.32892608642578125
+Social networks are changing the way people interact and share information.,"Sosyal ağlar, insanların iletişim kurma ve bilgi paylaşma biçimlerini değiştiriyor.",0.3761584758758545
+The rise of telemedicine is improving access to healthcare.,"Telemedinin artması, sağlık hizmetlerine erişimin iyileştirilmesidir.",0.36854004859924316
+Online privacy laws are evolving to protect user data.,Kullanıcı verilerini korumak için çevrimiçi gizlilik yasaları gelişiyor.,0.3505523204803467
+The internet of things is making our homes smarter and more connected.,Şeylerin İnterneti evlerimizi daha akıllı ve daha bağlantılı hale getiriyor.,0.36054039001464844
+The global digital economy is reshaping industries and markets.,Küresel dijital ekonomi endüstrileri ve pazarları yeniden canlandırıyor.,0.3619997501373291
+AI and automation are reshaping the manufacturing sector.,"AI ve otomasyon, üretim sektörünü yeniden canlandırıyor.",0.2836949825286865
+Blockchain is being used to secure personal and financial transactions.,"Blockchain, kişisel ve finansal işlemleri sağlamak için kullanılıyor.",0.4398665428161621
+The adoption of renewable energy is crucial for sustainable growth.,Yenilenebilir enerjinin uygulanması sürdürülebilir büyüme için çok önemlidir.,0.4366176128387451
+Artificial intelligence is being used to automate customer support services.,"Yapay zeka, müşteri desteği hizmetlerini otomatikleştirmek için kullanılır.",0.4695765972137451
+Electric vehicles are reducing the carbon footprint of transportation.,Elektrikli araçlar ulaşımın karbon izini azaltıyor.,0.35344648361206055
+Data science is transforming how businesses make decisions.,"Bilgi teknolojisi, şirketlerin nasıl karar vereceğini değiştiriyor.",0.3679995536804199
+The use of technology in healthcare is improving patient outcomes.,"Sağlık alanında teknolojinin kullanımı, hastaların sonuçlarını iyileştirmektir.",0.3881244659423828
+Renewable energy sources are helping reduce the world's dependence on fossil fuels.,"Yenilenebilir enerji kaynakları, dünyanın fosil yakıtlara olan bağımlılığını azaltmaya yardımcı oluyor.",0.6099236011505127
+The rise of smart cities is improving urban living conditions.,Akıllı şehirlerin yükselişi kentsel yaşam koşullarını iyileştirir.,0.5194368362426758
+The quick brown fox jumps over the lazy dog.,"Hızlı kahverengi fox, yumuşak köpeğin üstüne atlar.",0.3976128101348877
+Artificial intelligence is changing the world.,Yapay zeka dünyayı değiştiriyor.,0.21412444114685059
+Machine learning is a subset of artificial intelligence.,Makine öğrenimi yapay zeka alt kümesidir.,0.28945159912109375
+Natural language processing helps machines understand human language.,Doğal dil işleme makinelerin insan dilini anlamalarına yardımcı olur.,0.327899694442749
+Deep learning models are a type of neural network.,Derin öğrenme modelleri bir tür sinir ağıdır.,0.2881767749786377
+Data science is an interdisciplinary field that uses scientific methods.,"Bilgi Bilimi, bilimsel yöntemleri kullanan disiplinlerarası bir alandır.",0.3476898670196533
+The weather today is sunny with a slight breeze.,Bugün hava hafif bir fırtına ile güneşli.,0.296616792678833
+I love reading books about technology and science.,Teknoloji ve bilim hakkında kitap okumayı çok seviyorum.,0.25222229957580566
+Humans and computers are collaborating more than ever before.,İnsanlar ve bilgisayarlar her zamankinden daha fazla işbirliği yapıyor.,0.34485864639282227
+The internet has revolutionized how we communicate and share information.,"İnternet, iletişim ve bilgi paylaşımını devrimci hale getirdi.",0.3874683380126953
+Space exploration is one of humanity's greatest achievements.,Uzay keşfi insanlığın en büyük başarılarından biridir.,0.26841282844543457
+Electric cars are becoming more popular in modern society.,Elektrikli araçlar modern toplumda giderek daha popüler hale geliyor.,0.30126309394836426
+The stock market can be unpredictable and volatile.,Borsa tahmin edilemez ve değişken olabilir.,0.2673361301422119
+Climate change is a global challenge that needs urgent attention.,"İklim değişikliği, acil bir dikkat gerektiren küresel bir meydan okuma.",0.4300417900085449
+Cybersecurity is crucial to protect data from malicious attacks.,Bilgisayar güvenliği kötü amaçlı saldırılardan veri korumak için çok önemlidir.,0.3593902587890625
+Smartphones have become an essential part of daily life.,Akıllı telefonlar günlük yaşamın önemli bir parçası haline gelmiştir.,0.29749131202697754
+Social media platforms influence how people interact online.,"Sosyal medya platformları, insanların çevrimiçi nasıl etkileşime girdiğini etkiler.",0.4042084217071533
+The internet of things is making everyday devices smarter.,"Her şeyin interneti, günlük cihazları daha akıllı hale getiriyor.",0.2995483875274658
+Renewable energy sources like solar power are growing in popularity.,Güneş enerjisi gibi yenilenebilir enerji kaynakları popülerlikte artıyor.,0.3616669178009033
+Globalization is shaping economies and cultures around the world.,"Küreselleşme, dünyadaki ekonomileri ve kültürleri şekillendiriyor.",0.35540032386779785
+The healthcare industry is undergoing rapid technological advancements.,Sağlık sektörü hızlı teknolojik gelişmelere maruz kalıyor.,0.26322054862976074
+Robots are performing tasks that were once done by humans.,Robotlar bir zamanlar insanlar tarafından yapılmış olan görevleri yerine getiriyorlar.,0.3328697681427002
+Quantum computing has the potential to revolutionize many industries.,"Kuantum bilgisayar, birçok endüstriyi devrimci hale getirme potansiyeline sahiptir.",0.4367685317993164
+The pandemic has changed the way people work and live.,"Panda, insanların nasıl çalıştıklarını ve yaşadıklarını değiştirdi.",0.2818489074707031
+Artificial intelligence is used in voice assistants like Siri.,"Yapay zeka, Siri gibi ses asistanlarında kullanılır.",0.26721930503845215
+The rise of e-commerce is changing traditional retail models.,E-ticaret artışı geleneksel perakende modellerini değiştiriyor.,0.35671114921569824
+Self-driving cars are expected to be common on the roads in the future.,Gelecekte otomobiller yollarda yaygın olacak.,0.2831728458404541
+Big data is transforming how businesses make decisions.,"Büyük veriler, işletmelerin karar verme biçimini dönüştürüyor.",0.29872632026672363
+The advancement of 5G technology is improving mobile connectivity.,"5G teknolojisinin gelişimi, mobil bağlantıların geliştirilmesidir.",0.3243372440338135
+Social distancing is a measure to prevent the spread of infectious diseases.,"Sosyal uzaklaştırma, bulaşıcı hastalıkların yayılmasını önlemek için bir önlemdir.",0.437103271484375
+Technology is reshaping how we learn and access information.,"Teknoloji, nasıl öğreneceğimizi ve bilgi edineceğimizi yeniden canlandırıyor.",0.48035383224487305
+Gaming has evolved into a multi-billion dollar industry.,"Oyunlar, milyar dolarlık bir endüstriye dönüşmüştür.",0.37014341354370117
+Smart home devices can automate daily tasks like controlling lights.,"Akıllı ev cihazları, kontrol ışıkları gibi günlük görevleri otomatik hale getirebilir.",0.5022037029266357
+SpaceX is working towards making space travel more affordable.,"SpaceX, uzay yolculuğunu daha uygun hale getirmek için çalışıyor.",0.44114136695861816
+3D printing is changing how we produce goods and objects.,"3D baskı, ürün ve nesnelerin nasıl üretildiğini değiştiriyor.",0.4177255630493164
+The development of AI in healthcare is improving diagnosis accuracy.,"Sağlık alanında AI’nin geliştirilmesi, teşhis doğruluğunu iyileştirir.",0.4539954662322998
+Virtual reality is being used for immersive gaming experiences.,Sanal gerçeklik etkileyici oyun deneyimleri için kullanılır.,0.3717536926269531
+Smart watches are tracking our health metrics in real time.,Akıllı saatler sağlık metriklerimizi gerçek zamanlı olarak izliyor.,0.4208393096923828
+Cloud computing has made data storage more accessible and scalable.,"Bulut bilgisayar, veri depolamasını daha erişilebilir ve ölçeklenebilir hale getirdi.",0.45833492279052734
+Education systems are integrating technology into their curriculums.,Eğitim sistemleri teknolojiyi ders programlarına entegre ediyor.,0.27227234840393066
+Electric vehicles are more environmentally friendly than gasoline cars.,Elektrikli araçlar benzinli araçlardan daha çevre dostu.,0.31321024894714355
+Machine translation helps break down language barriers.,"Makine çevirisi, dil engellerini kırmaya yardımcı olur.",0.31328296661376953
+The rise of remote work is shifting workplace dynamics.,"Uzaktan çalışma dinamiklerinin yükselişi, çalışma alanının dinamiklerini değiştirir.",0.3486909866333008
+Electric bikes are becoming a popular alternative to cars.,Elektrikli bisikletler otomobiller için popüler bir alternatif haline geliyor.,0.3402211666107178
+Augmented reality is enhancing user experiences in retail.,"Gelişmiş gerçeklik, kullanıcı deneyimlerini perakende sektöründe geliştirir.",0.35307741165161133
+Blockchain technology is changing the way we store and transfer data.,"Blockchain teknolojisi, veri depolama ve aktarma yolunu değiştiriyor.",0.38846588134765625
+The rapid growth of e-learning platforms is revolutionizing education.,E-öğrenme platformlarının hızlı büyümesi eğitimini devrimci hale getiriyor.,0.4044184684753418
+Climate change is affecting weather patterns worldwide.,İklim değişikliği dünya çapında hava koşullarını etkiler.,0.317363977432251
+The gig economy is changing how people approach work and employment.,"Gig ekonomisi, insanların iş ve işe nasıl yaklaştıklarını değiştiriyor.",0.3491342067718506
+Robots are being used in manufacturing for greater efficiency.,Robotlar daha yüksek verimlilik için üretimde kullanılıyor.,0.2650723457336426
+Autonomous drones are being developed for delivery services.,Teslimat hizmetleri için otonom drone geliştiriliyor.,0.30074334144592285
+Artificial intelligence is improving the accuracy of medical diagnoses.,"Yapay zeka, tıbbi teşhislerin doğruluğunu arttırır.",0.32825613021850586
+Technology is driving innovation in agriculture through automation.,"Teknoloji, otomasyon yoluyla tarımda yenilikleri teşvik ediyor.",0.3191707134246826
+Data privacy is a growing concern in the digital age.,"Verilerin gizliliği, dijital çağda artan bir kaygıdır.",0.3670375347137451
+Sustainable development is a key focus for future generations.,"Sürdürülebilir kalkınma, gelecek nesiller için önemli bir odak noktasıdır.",0.3677198886871338
+Mobile applications are transforming industries like healthcare and finance.,Mobil uygulamalar sağlık ve finans gibi endüstrileri dönüştürüyor.,0.2993650436401367
+Artificial intelligence can help detect fraudulent activities in banking.,"Yapay zeka, bankacılıkta dolandırıcılık faaliyetlerini tespit etmeye yardımcı olabilir.",0.41638851165771484
+Wearable technology is changing how we track fitness and health.,"Taşınabilir teknoloji, fitness ve sağlığı nasıl izlediğimizi değiştiriyor.",0.357957124710083
+The use of renewable energy is crucial for a sustainable future.,"Yenilenebilir enerji kullanımı, sürdürülebilir bir gelecek için çok önemlidir.",0.3412129878997803
+Internet censorship is a controversial issue in many countries.,İnternet sorumluluğu birçok ülkede tartışmalı bir konu.,0.2905111312866211
+The digital divide creates inequality in access to technology.,"Dijital bölünme, teknolojiye erişimde eşitsizlik yaratır.",0.33677220344543457
+Robotic surgery is becoming more common in medical procedures.,Robot ameliyatı tıbbi prosedürlerde daha yaygındır.,0.3568251132965088
+Gene editing has the potential to cure genetic diseases.,Gen düzenleme genetik hastalıkları tedavi etme potansiyeline sahiptir.,0.35680103302001953
+Smart cities are integrating technology for better urban management.,Akıllı şehirler daha iyi kentsel yönetim için teknolojiyi entegre ediyor.,0.3586716651916504
+The rise of subscription services is changing how we consume media.,"Abonelik hizmetlerinin yükselişi, medyayı nasıl kullandığımızı değiştiriyor.",0.3791162967681885
+The use of drones in agriculture is improving crop yields.,"Tarımda drone kullanımı, hasat üretimini arttırıyor.",0.31113433837890625
+AI-powered chatbots are being used for customer service.,AI güçlendirilmiş chatbotlar müşteri hizmetleri için kullanılıyor.,0.3926091194152832
+Cryptocurrencies are changing the way people think about money.,Cryptocurrencies insanların para hakkında nasıl düşündüğünü değiştiriyor.,0.44309425354003906
+Online streaming services have reshaped the entertainment industry.,Online streaming hizmetleri eğlence endüstrisini yeniden canlandırdı.,0.43602490425109863
+The development of renewable energy is crucial for reducing carbon emissions.,"Yenilenebilir enerji geliştirmek, karbon emisyonlarını azaltmak için çok önemlidir.",0.4712197780609131
+Cyber attacks are becoming more sophisticated and widespread.,Siber saldırılar giderek daha sofistike ve yaygın hale geliyor.,0.38544416427612305
+Smart glasses are enhancing user experiences through augmented reality.,"Akıllı gözlükler, artan gerçeklik yoluyla kullanıcı deneyimlerini geliştirir.",0.44194817543029785
+Facial recognition technology is being used for security purposes.,Yüz tanıma teknolojisi güvenlik amaçları için kullanılmaktadır.,0.32912158966064453
+Driverless vehicles are expected to reduce traffic accidents.,Sürücüsüz araçlar trafik kazalarını azaltacak.,0.44545578956604004
+5G networks are enabling faster internet speeds and connectivity.,5G ağları daha hızlı internet hızı ve bağlantı sağlar.,0.3950226306915283
+The use of AI in education is personalizing learning experiences.,Eğitimde AI’nin kullanımı öğrenme deneyimlerini kişiselleştirmektir.,0.33349013328552246
+Digital currencies are creating new opportunities in the financial sector.,Dijital para birimleri finans sektöründe yeni fırsatlar yaratıyor.,0.2890763282775879
+Autonomous vehicles are becoming a reality on public roads.,Otonom araçlar halk yollarında bir gerçeklik haline geliyor.,0.25722432136535645
+Data analytics is helping businesses understand customer behavior.,"Veri analizi, işletmelerin müşteri davranışlarını anlamalarına yardımcı olur.",0.3286726474761963
+The adoption of smart technologies is improving everyday life.,Akıllı teknolojilerin uygulanması günlük yaşamı iyileştirir.,0.3120732307434082
+Digital marketing is transforming how brands reach their customers.,"Dijital pazarlama, markaların müşterilerine nasıl ulaştığını dönüştürüyor.",0.34804224967956543
+Renewable energy sources are helping to reduce reliance on fossil fuels.,"Yenilenebilir enerji kaynakları, fosil yakıtlara olan güvenini azaltmaya yardımcı olur.",0.39476513862609863
+Blockchain is being used to secure online transactions.,"Blockchain, çevrimiçi işlemleri güvence altına almak için kullanılıyor.",0.3278951644897461
+The growth of cloud services is changing how companies store data.,"Bulut hizmetlerinin büyümesi, şirketlerin veri depolama biçimlerini değiştiriyor.",0.3900277614593506
+AI can predict trends and make decisions in business applications.,"AI, trendleri tahmin edebilir ve iş uygulamalarında karar verebilir.",0.32947349548339844
+Telemedicine is providing remote healthcare services.,Telemedicine uzaktan sağlık hizmetleri sunmaktadır.,0.24739623069763184
+The rise of influencer marketing is reshaping advertising strategies.,Influencer Marketing’in yükselişi reklam stratejilerini yeniden canlandırıyor.,0.32889890670776367
+Nanotechnology is making significant advances in medicine.,"Nanoteknoloji, tıp alanında önemli ilerlemeler yapıyor.",0.29830312728881836
+Electric public transport systems are gaining popularity.,Elektrikli toplu taşıma sistemleri popülerlik kazanıyor.,0.3246738910675049
+Renewable energy is playing a key role in reducing global carbon emissions.,"Yenilenebilir enerji, küresel karbon emisyonlarını azaltmada önemli bir rol oynamaktadır.",0.39020729064941406
+The internet is changing how people communicate and form relationships.,"İnternet, insanların nasıl iletişim kurduğunu ve ilişkilerini şekillendirdiğini değiştiriyor.",0.43340420722961426
+The rise of the sharing economy is reshaping how we own and share resources.,"Paylaşım ekonomisinin yükselişi, sahip olduğumuz ve kaynaklarımızı nasıl paylaştığımızı yeniden canlandırıyor.",0.47071313858032227
+The global economy is increasingly influenced by technology.,Dünya ekonomisi teknolojiden giderek daha fazla etkileniyor.,0.2651212215423584
+Artificial intelligence is creating new job opportunities in tech.,"Yapay zeka, teknolojide yeni iş fırsatları yaratıyor.",0.29245996475219727
+The proliferation of mobile devices is reshaping how we interact with technology.,"Mobil cihazların yaygınlaşması, teknolojiyle nasıl etkileşime girdiğimizi yeniden canlandırıyor.",0.4507882595062256
+Electric scooters are becoming a popular mode of urban transport.,Elektrikli scooters şehir taşımacılığının popüler bir yöntemi haline geliyor.,0.36743688583374023
+Augmented reality is being used for virtual try-ons in retail.,"Gelişmiş gerçeklik, perakende sanal denemeler için kullanılıyor.",0.3453090190887451
+Digital transformation is changing how businesses operate.,"Dijital dönüşüm, şirketlerin nasıl çalıştığını değiştiriyor.",0.30845069885253906
+Cybersecurity is crucial for protecting sensitive data online.,İnternette hassas verilerin korunması için kiber güvenlik çok önemlidir.,0.325333833694458
+The rise of smart homes is making our lives more convenient.,Akıllı evlerin yükselişi hayatımızı daha rahat hale getiriyor.,0.30570244789123535
+The gig economy is growing rapidly in various industries.,Gig ekonomisi çeşitli endüstrilerde hızla büyüyor.,0.31914424896240234
+3D printing is disrupting traditional manufacturing processes.,"3D baskı, geleneksel üretim süreçlerini bozuyor.",0.28654909133911133
+Online privacy is a major concern in the digital age.,"Çevrimiçi gizlilik, dijital çağda önemli bir kaygıdır.",0.3778872489929199
+AI-driven recommendations are changing the way we discover content online.,"Yapay zeka tarafından yönlendirilen öneriler, çevrimiçi içeriği keşfetmenin yolunu değiştiriyor.",0.6336801052093506
+The growth of online shopping is reshaping the retail landscape.,"Online alışverişin büyümesi, perakende manzarasını yeniden canlandırıyor.",0.452378511428833
+Machine learning is being applied in various industries.,Makine öğrenimi çeşitli endüstrilerde uygulanmaktadır.,0.3435037136077881
+The future of work is being shaped by automation and AI.,İşin geleceği otomasyon ve AI ile şekillendiriliyor.,0.41410279273986816
+Digital identity verification is becoming more common.,Dijital kimlik doğrulama giderek daha yaygındır.,0.352766752243042
+Remote learning is changing the traditional education model.,Uzaktan öğrenme geleneksel eğitim modelini değiştiriyor.,0.35062599182128906
+Sustainable fashion is gaining popularity as people seek eco-friendly alternatives.,"Sürdürülebilir moda, insanlar çevre dostu alternatifleri ararken popülerlik kazanıyor.",0.6035823822021484
+The adoption of AI in business is improving operational efficiency.,"İşletmelerde AI'nin uygulanması, işletme verimliliğini arttırır.",0.5703306198120117
+Cryptocurrencies are becoming more mainstream in global markets.,Küresel piyasalarda kripto para birimleri giderek yaygınlaşıyor.,0.3593456745147705
+Data protection laws are evolving to address privacy concerns.,Gizlilik sorunlarını çözmek için veri koruma yasaları gelişiyor.,0.30789804458618164
+Blockchain is transforming the supply chain and logistics industry.,"Blockchain, tedarik zincirini ve lojistik endüstrisini dönüştürüyor.",0.3719451427459717
+The rise of mobile payments is changing how people make transactions.,"Mobil ödeme artışı, insanların işlem yapma biçimlerini değiştiriyor.",0.35154080390930176
+Artificial intelligence is helping improve customer experiences.,"Yapay zeka, müşteri deneyimlerini geliştirmeye yardımcı olur.",0.30445408821105957
+The use of drones in delivery services is becoming more widespread.,Teslimat hizmetlerinde drone kullanımı giderek yaygınlaşıyor.,0.3433969020843506
+Virtual assistants are helping people manage their daily tasks.,"Sanal asistanlar, insanların günlük görevlerini yönetmelerine yardımcı olur.",0.29956674575805664
+3D printing is being used in the medical field for prosthetics and implants.,"3D baskı, prostetik ve implantlar için tıbbi alanda kullanılıyor.",0.35975122451782227
+Electric cars are becoming more affordable for consumers.,Elektrikli araçlar tüketicilere daha uygun hale geliyor.,0.2780160903930664
+Cloud storage is becoming increasingly popular for personal and business data.,Bulut depolama kişisel ve iş verileri için giderek daha popüler hale geliyor.,0.3981442451477051
+The growth of streaming platforms is changing how people consume media.,"Streaming platformlarının büyümesi, insanların medyayı nasıl tükettiğini değiştiriyor.",0.3849959373474121
+"AI is revolutionizing industries such as healthcare, finance, and logistics.","Yapay zeka, sağlık, finans ve lojistik gibi endüstrileri devrimci hale getiriyor.",0.4247775077819824
+The digital economy is creating new opportunities for innovation.,"Dijital ekonomi, yenilik için yeni fırsatlar yaratıyor.",0.2649807929992676
+The use of AI in marketing is helping brands target the right audience.,"Pazarlamada yapay zeka kullanımı, markaların doğru seyirciyi hedeflemesine yardımcı olur.",0.43820667266845703
+Artificial intelligence is helping detect diseases in medical imaging.,"Yapay zeka, tıbbi görüntülerde hastalıkları tespit etmeye yardımcı olur.",0.3837101459503174
+Sustainable development is crucial for protecting the planet.,"Sürdürülebilir kalkınma, gezegenin korunması için çok önemlidir.",0.3449366092681885
+Data mining is uncovering patterns and trends in large datasets.,"Veri madenciliği, büyük veri kümelerinde modeller ve eğilimleri keşfeder.",0.3923814296722412
+The rise of wearable devices is changing how we track health metrics.,"Taşınabilir cihazların yükselişi, sağlık metriklerini nasıl izlediğimizi değiştiriyor.",0.40937113761901855
+Artificial intelligence is being used in autonomous vehicles.,Yapay zeka otonom araçlarda kullanılmaktadır.,0.2615664005279541
+Digital currencies are challenging traditional banking systems.,Dijital para birimleri geleneksel bankacılık sistemlerini zorlaştırıyor.,0.35160326957702637
+Cloud computing is making business operations more flexible.,Bulut bilgisayarları iş faaliyetlerini daha esnek hale getiriyor.,0.28550124168395996
+The future of technology lies in innovation and sustainable practices.,Teknolojinin geleceği yenilik ve sürdürülebilir uygulamalar içindedir.,0.330822229385376
+Social networks are changing the way people interact and share information.,"Sosyal ağlar, insanların iletişim kurma ve bilgi paylaşma biçimlerini değiştiriyor.",0.3890819549560547
+The rise of telemedicine is improving access to healthcare.,"Telemedinin artması, sağlık hizmetlerine erişimin iyileştirilmesidir.",0.3653562068939209
+Online privacy laws are evolving to protect user data.,Kullanıcı verilerini korumak için çevrimiçi gizlilik yasaları gelişiyor.,0.3472456932067871
+The internet of things is making our homes smarter and more connected.,Şeylerin İnterneti evlerimizi daha akıllı ve daha bağlantılı hale getiriyor.,0.38387036323547363
+The global digital economy is reshaping industries and markets.,Küresel dijital ekonomi endüstrileri ve pazarları yeniden canlandırıyor.,0.3500359058380127
+AI and automation are reshaping the manufacturing sector.,"AI ve otomasyon, üretim sektörünü yeniden canlandırıyor.",0.2846195697784424
+Blockchain is being used to secure personal and financial transactions.,"Blockchain, kişisel ve finansal işlemleri sağlamak için kullanılıyor.",0.4328622817993164
+The adoption of renewable energy is crucial for sustainable growth.,Yenilenebilir enerjinin uygulanması sürdürülebilir büyüme için çok önemlidir.,0.44686126708984375
+Artificial intelligence is being used to automate customer support services.,"Yapay zeka, müşteri desteği hizmetlerini otomatikleştirmek için kullanılır.",0.48347973823547363
+Electric vehicles are reducing the carbon footprint of transportation.,Elektrikli araçlar ulaşımın karbon izini azaltıyor.,0.35843777656555176
+Data science is transforming how businesses make decisions.,"Bilgi teknolojisi, şirketlerin nasıl karar vereceğini değiştiriyor.",0.36704182624816895
+The use of technology in healthcare is improving patient outcomes.,"Sağlık alanında teknolojinin kullanımı, hastaların sonuçlarını iyileştirmektir.",0.43596887588500977
+Renewable energy sources are helping reduce the world's dependence on fossil fuels.,"Yenilenebilir enerji kaynakları, dünyanın fosil yakıtlara olan bağımlılığını azaltmaya yardımcı oluyor.",0.5569760799407959
+The rise of smart cities is improving urban living conditions.,Akıllı şehirlerin yükselişi kentsel yaşam koşullarını iyileştirir.,0.6122968196868896
+The quick brown fox jumps over the lazy dog.,"Hızlı kahverengi fox, yumuşak köpeğin üstüne atlar.",0.3766951560974121
+Artificial intelligence is changing the world.,Yapay zeka dünyayı değiştiriyor.,0.22372889518737793
+Machine learning is a subset of artificial intelligence.,Makine öğrenimi yapay zeka alt kümesidir.,0.29457592964172363
+Natural language processing helps machines understand human language.,Doğal dil işleme makinelerin insan dilini anlamalarına yardımcı olur.,0.31148433685302734
+Deep learning models are a type of neural network.,Derin öğrenme modelleri bir tür sinir ağıdır.,0.28464674949645996
+Data science is an interdisciplinary field that uses scientific methods.,"Bilgi Bilimi, bilimsel yöntemleri kullanan disiplinlerarası bir alandır.",0.3691225051879883
+The weather today is sunny with a slight breeze.,Bugün hava hafif bir fırtına ile güneşli.,0.2857987880706787
+I love reading books about technology and science.,Teknoloji ve bilim hakkında kitap okumayı çok seviyorum.,0.2535412311553955
+Humans and computers are collaborating more than ever before.,İnsanlar ve bilgisayarlar her zamankinden daha fazla işbirliği yapıyor.,0.34659790992736816
+The internet has revolutionized how we communicate and share information.,"İnternet, iletişim ve bilgi paylaşımını devrimci hale getirdi.",0.38778185844421387
+Space exploration is one of humanity's greatest achievements.,Uzay keşfi insanlığın en büyük başarılarından biridir.,0.2664053440093994
+Electric cars are becoming more popular in modern society.,Elektrikli araçlar modern toplumda giderek daha popüler hale geliyor.,0.3031644821166992
+The stock market can be unpredictable and volatile.,Borsa tahmin edilemez ve değişken olabilir.,0.28334665298461914
+Climate change is a global challenge that needs urgent attention.,"İklim değişikliği, acil bir dikkat gerektiren küresel bir meydan okuma.",0.41707348823547363
+Cybersecurity is crucial to protect data from malicious attacks.,Bilgisayar güvenliği kötü amaçlı saldırılardan veri korumak için çok önemlidir.,0.3561587333679199
+Smartphones have become an essential part of daily life.,Akıllı telefonlar günlük yaşamın önemli bir parçası haline gelmiştir.,0.3132820129394531
+Social media platforms influence how people interact online.,"Sosyal medya platformları, insanların çevrimiçi nasıl etkileşime girdiğini etkiler.",0.3889749050140381
+The internet of things is making everyday devices smarter.,"Her şeyin interneti, günlük cihazları daha akıllı hale getiriyor.",0.3046228885650635
+Renewable energy sources like solar power are growing in popularity.,Güneş enerjisi gibi yenilenebilir enerji kaynakları popülerlikte artıyor.,0.3813924789428711
+Globalization is shaping economies and cultures around the world.,"Küreselleşme, dünyadaki ekonomileri ve kültürleri şekillendiriyor.",0.3529226779937744
+The healthcare industry is undergoing rapid technological advancements.,Sağlık sektörü hızlı teknolojik gelişmelere maruz kalıyor.,0.26892805099487305
+Robots are performing tasks that were once done by humans.,Robotlar bir zamanlar insanlar tarafından yapılmış olan görevleri yerine getiriyorlar.,0.3437154293060303
+Quantum computing has the potential to revolutionize many industries.,"Kuantum bilgisayar, birçok endüstriyi devrimci hale getirme potansiyeline sahiptir.",0.43276548385620117
+The pandemic has changed the way people work and live.,"Panda, insanların nasıl çalıştıklarını ve yaşadıklarını değiştirdi.",0.28184938430786133
+Artificial intelligence is used in voice assistants like Siri.,"Yapay zeka, Siri gibi ses asistanlarında kullanılır.",0.2807910442352295
+The rise of e-commerce is changing traditional retail models.,E-ticaret artışı geleneksel perakende modellerini değiştiriyor.,0.34282660484313965
+Self-driving cars are expected to be common on the roads in the future.,Gelecekte otomobiller yollarda yaygın olacak.,0.2892143726348877
+Big data is transforming how businesses make decisions.,"Büyük veriler, işletmelerin karar verme biçimini dönüştürüyor.",0.3175547122955322
+The advancement of 5G technology is improving mobile connectivity.,"5G teknolojisinin gelişimi, mobil bağlantıların geliştirilmesidir.",0.3152594566345215
+Social distancing is a measure to prevent the spread of infectious diseases.,"Sosyal uzaklaştırma, bulaşıcı hastalıkların yayılmasını önlemek için bir önlemdir.",0.43296074867248535
+Technology is reshaping how we learn and access information.,"Teknoloji, nasıl öğreneceğimizi ve bilgi edineceğimizi yeniden canlandırıyor.",0.48795056343078613
+Gaming has evolved into a multi-billion dollar industry.,"Oyunlar, milyar dolarlık bir endüstriye dönüşmüştür.",0.34329676628112793
+Smart home devices can automate daily tasks like controlling lights.,"Akıllı ev cihazları, kontrol ışıkları gibi günlük görevleri otomatik hale getirebilir.",0.47821760177612305
+SpaceX is working towards making space travel more affordable.,"SpaceX, uzay yolculuğunu daha uygun hale getirmek için çalışıyor.",0.43793749809265137
+3D printing is changing how we produce goods and objects.,"3D baskı, ürün ve nesnelerin nasıl üretildiğini değiştiriyor.",0.4306783676147461
+The development of AI in healthcare is improving diagnosis accuracy.,"Sağlık alanında AI’nin geliştirilmesi, teşhis doğruluğunu iyileştirir.",0.443967342376709
+Virtual reality is being used for immersive gaming experiences.,Sanal gerçeklik etkileyici oyun deneyimleri için kullanılır.,0.3803853988647461
+Smart watches are tracking our health metrics in real time.,Akıllı saatler sağlık metriklerimizi gerçek zamanlı olarak izliyor.,0.45181965827941895
+Cloud computing has made data storage more accessible and scalable.,"Bulut bilgisayar, veri depolamasını daha erişilebilir ve ölçeklenebilir hale getirdi.",0.48827147483825684
+Education systems are integrating technology into their curriculums.,Eğitim sistemleri teknolojiyi ders programlarına entegre ediyor.,0.26411962509155273
+Electric vehicles are more environmentally friendly than gasoline cars.,Elektrikli araçlar benzinli araçlardan daha çevre dostu.,0.3302493095397949
+Machine translation helps break down language barriers.,"Makine çevirisi, dil engellerini kırmaya yardımcı olur.",0.3023970127105713
+The rise of remote work is shifting workplace dynamics.,"Uzaktan çalışma dinamiklerinin yükselişi, çalışma alanının dinamiklerini değiştirir.",0.3457009792327881
+Electric bikes are becoming a popular alternative to cars.,Elektrikli bisikletler otomobiller için popüler bir alternatif haline geliyor.,0.3457772731781006
+Augmented reality is enhancing user experiences in retail.,"Gelişmiş gerçeklik, kullanıcı deneyimlerini perakende sektöründe geliştirir.",0.3569951057434082
+Blockchain technology is changing the way we store and transfer data.,"Blockchain teknolojisi, veri depolama ve aktarma yolunu değiştiriyor.",0.35756731033325195
+The rapid growth of e-learning platforms is revolutionizing education.,E-öğrenme platformlarının hızlı büyümesi eğitimini devrimci hale getiriyor.,0.4247603416442871
+Climate change is affecting weather patterns worldwide.,İklim değişikliği dünya çapında hava koşullarını etkiler.,0.3152120113372803
+The gig economy is changing how people approach work and employment.,"Gig ekonomisi, insanların iş ve işe nasıl yaklaştıklarını değiştiriyor.",0.3437509536743164
+Robots are being used in manufacturing for greater efficiency.,Robotlar daha yüksek verimlilik için üretimde kullanılıyor.,0.2761082649230957
+Autonomous drones are being developed for delivery services.,Teslimat hizmetleri için otonom drone geliştiriliyor.,0.29868221282958984
+Artificial intelligence is improving the accuracy of medical diagnoses.,"Yapay zeka, tıbbi teşhislerin doğruluğunu arttırır.",0.32872486114501953
+Technology is driving innovation in agriculture through automation.,"Teknoloji, otomasyon yoluyla tarımda yenilikleri teşvik ediyor.",0.31046032905578613
+Data privacy is a growing concern in the digital age.,"Verilerin gizliliği, dijital çağda artan bir kaygıdır.",0.36090636253356934
+Sustainable development is a key focus for future generations.,"Sürdürülebilir kalkınma, gelecek nesiller için önemli bir odak noktasıdır.",0.37343406677246094
+Mobile applications are transforming industries like healthcare and finance.,Mobil uygulamalar sağlık ve finans gibi endüstrileri dönüştürüyor.,0.3065478801727295
+Artificial intelligence can help detect fraudulent activities in banking.,"Yapay zeka, bankacılıkta dolandırıcılık faaliyetlerini tespit etmeye yardımcı olabilir.",0.43634748458862305
+Wearable technology is changing how we track fitness and health.,"Taşınabilir teknoloji, fitness ve sağlığı nasıl izlediğimizi değiştiriyor.",0.358046293258667
+The use of renewable energy is crucial for a sustainable future.,"Yenilenebilir enerji kullanımı, sürdürülebilir bir gelecek için çok önemlidir.",0.35608363151550293
+Internet censorship is a controversial issue in many countries.,İnternet sorumluluğu birçok ülkede tartışmalı bir konu.,0.2862968444824219
+The digital divide creates inequality in access to technology.,"Dijital bölünme, teknolojiye erişimde eşitsizlik yaratır.",0.3318774700164795
+Robotic surgery is becoming more common in medical procedures.,Robot ameliyatı tıbbi prosedürlerde daha yaygındır.,0.3604254722595215
+Gene editing has the potential to cure genetic diseases.,Gen düzenleme genetik hastalıkları tedavi etme potansiyeline sahiptir.,0.3561103343963623
+Smart cities are integrating technology for better urban management.,Akıllı şehirler daha iyi kentsel yönetim için teknolojiyi entegre ediyor.,0.3449428081512451
+The rise of subscription services is changing how we consume media.,"Abonelik hizmetlerinin yükselişi, medyayı nasıl kullandığımızı değiştiriyor.",0.3889179229736328
+The use of drones in agriculture is improving crop yields.,"Tarımda drone kullanımı, hasat üretimini arttırıyor.",0.30127716064453125
+AI-powered chatbots are being used for customer service.,AI güçlendirilmiş chatbotlar müşteri hizmetleri için kullanılıyor.,0.3514575958251953
+Cryptocurrencies are changing the way people think about money.,Cryptocurrencies insanların para hakkında nasıl düşündüğünü değiştiriyor.,0.48960304260253906
+Online streaming services have reshaped the entertainment industry.,Online streaming hizmetleri eğlence endüstrisini yeniden canlandırdı.,0.4261317253112793
+The development of renewable energy is crucial for reducing carbon emissions.,"Yenilenebilir enerji geliştirmek, karbon emisyonlarını azaltmak için çok önemlidir.",0.49997901916503906
+Cyber attacks are becoming more sophisticated and widespread.,Siber saldırılar giderek daha sofistike ve yaygın hale geliyor.,0.37470269203186035
+Smart glasses are enhancing user experiences through augmented reality.,"Akıllı gözlükler, artan gerçeklik yoluyla kullanıcı deneyimlerini geliştirir.",0.4527475833892822
+Facial recognition technology is being used for security purposes.,Yüz tanıma teknolojisi güvenlik amaçları için kullanılmaktadır.,0.3218729496002197
+Driverless vehicles are expected to reduce traffic accidents.,Sürücüsüz araçlar trafik kazalarını azaltacak.,0.4198329448699951
+5G networks are enabling faster internet speeds and connectivity.,5G ağları daha hızlı internet hızı ve bağlantı sağlar.,0.4875044822692871
+The use of AI in education is personalizing learning experiences.,Eğitimde AI’nin kullanımı öğrenme deneyimlerini kişiselleştirmektir.,0.32604217529296875
+Digital currencies are creating new opportunities in the financial sector.,Dijital para birimleri finans sektöründe yeni fırsatlar yaratıyor.,0.29395484924316406
+Autonomous vehicles are becoming a reality on public roads.,Otonom araçlar halk yollarında bir gerçeklik haline geliyor.,0.2547798156738281
+Data analytics is helping businesses understand customer behavior.,"Veri analizi, işletmelerin müşteri davranışlarını anlamalarına yardımcı olur.",0.34946179389953613
+The adoption of smart technologies is improving everyday life.,Akıllı teknolojilerin uygulanması günlük yaşamı iyileştirir.,0.30374884605407715
+Digital marketing is transforming how brands reach their customers.,"Dijital pazarlama, markaların müşterilerine nasıl ulaştığını dönüştürüyor.",0.3497037887573242
+Renewable energy sources are helping to reduce reliance on fossil fuels.,"Yenilenebilir enerji kaynakları, fosil yakıtlara olan güvenini azaltmaya yardımcı olur.",0.41598033905029297
+Blockchain is being used to secure online transactions.,"Blockchain, çevrimiçi işlemleri güvence altına almak için kullanılıyor.",0.32195591926574707
+The growth of cloud services is changing how companies store data.,"Bulut hizmetlerinin büyümesi, şirketlerin veri depolama biçimlerini değiştiriyor.",0.40221214294433594
+AI can predict trends and make decisions in business applications.,"AI, trendleri tahmin edebilir ve iş uygulamalarında karar verebilir.",0.34356689453125
+Telemedicine is providing remote healthcare services.,Telemedicine uzaktan sağlık hizmetleri sunmaktadır.,0.2347731590270996
+The rise of influencer marketing is reshaping advertising strategies.,Influencer Marketing’in yükselişi reklam stratejilerini yeniden canlandırıyor.,0.3384532928466797
+Nanotechnology is making significant advances in medicine.,"Nanoteknoloji, tıp alanında önemli ilerlemeler yapıyor.",0.3074183464050293
+Electric public transport systems are gaining popularity.,Elektrikli toplu taşıma sistemleri popülerlik kazanıyor.,0.3009779453277588
+Renewable energy is playing a key role in reducing global carbon emissions.,"Yenilenebilir enerji, küresel karbon emisyonlarını azaltmada önemli bir rol oynamaktadır.",0.39937615394592285
+The internet is changing how people communicate and form relationships.,"İnternet, insanların nasıl iletişim kurduğunu ve ilişkilerini şekillendirdiğini değiştiriyor.",0.44515299797058105
+The rise of the sharing economy is reshaping how we own and share resources.,"Paylaşım ekonomisinin yükselişi, sahip olduğumuz ve kaynaklarımızı nasıl paylaştığımızı yeniden canlandırıyor.",0.4658644199371338
+The global economy is increasingly influenced by technology.,Dünya ekonomisi teknolojiden giderek daha fazla etkileniyor.,0.26660943031311035
+Artificial intelligence is creating new job opportunities in tech.,"Yapay zeka, teknolojide yeni iş fırsatları yaratıyor.",0.29834628105163574
+The proliferation of mobile devices is reshaping how we interact with technology.,"Mobil cihazların yaygınlaşması, teknolojiyle nasıl etkileşime girdiğimizi yeniden canlandırıyor.",0.43698883056640625
+Electric scooters are becoming a popular mode of urban transport.,Elektrikli scooters şehir taşımacılığının popüler bir yöntemi haline geliyor.,0.3898143768310547
+Augmented reality is being used for virtual try-ons in retail.,"Gelişmiş gerçeklik, perakende sanal denemeler için kullanılıyor.",0.35293054580688477
+Digital transformation is changing how businesses operate.,"Dijital dönüşüm, şirketlerin nasıl çalıştığını değiştiriyor.",0.30751991271972656
+Cybersecurity is crucial for protecting sensitive data online.,İnternette hassas verilerin korunması için kiber güvenlik çok önemlidir.,0.33837175369262695
+The rise of smart homes is making our lives more convenient.,Akıllı evlerin yükselişi hayatımızı daha rahat hale getiriyor.,0.2986581325531006
+The gig economy is growing rapidly in various industries.,Gig ekonomisi çeşitli endüstrilerde hızla büyüyor.,0.3092951774597168
+3D printing is disrupting traditional manufacturing processes.,"3D baskı, geleneksel üretim süreçlerini bozuyor.",0.2831141948699951
+Online privacy is a major concern in the digital age.,"Çevrimiçi gizlilik, dijital çağda önemli bir kaygıdır.",0.38315558433532715
+AI-driven recommendations are changing the way we discover content online.,"Yapay zeka tarafından yönlendirilen öneriler, çevrimiçi içeriği keşfetmenin yolunu değiştiriyor.",0.5917737483978271
+The growth of online shopping is reshaping the retail landscape.,"Online alışverişin büyümesi, perakende manzarasını yeniden canlandırıyor.",0.46678924560546875
+Machine learning is being applied in various industries.,Makine öğrenimi çeşitli endüstrilerde uygulanmaktadır.,0.33005380630493164
+The future of work is being shaped by automation and AI.,İşin geleceği otomasyon ve AI ile şekillendiriliyor.,0.41187334060668945
+Digital identity verification is becoming more common.,Dijital kimlik doğrulama giderek daha yaygındır.,0.3638877868652344
+Remote learning is changing the traditional education model.,Uzaktan öğrenme geleneksel eğitim modelini değiştiriyor.,0.3464782238006592
+Sustainable fashion is gaining popularity as people seek eco-friendly alternatives.,"Sürdürülebilir moda, insanlar çevre dostu alternatifleri ararken popülerlik kazanıyor.",0.6109623908996582
+The adoption of AI in business is improving operational efficiency.,"İşletmelerde AI'nin uygulanması, işletme verimliliğini arttırır.",0.5442712306976318
+Cryptocurrencies are becoming more mainstream in global markets.,Küresel piyasalarda kripto para birimleri giderek yaygınlaşıyor.,0.43834352493286133
+Data protection laws are evolving to address privacy concerns.,Gizlilik sorunlarını çözmek için veri koruma yasaları gelişiyor.,0.3150608539581299
+Blockchain is transforming the supply chain and logistics industry.,"Blockchain, tedarik zincirini ve lojistik endüstrisini dönüştürüyor.",0.3644883632659912
+The rise of mobile payments is changing how people make transactions.,"Mobil ödeme artışı, insanların işlem yapma biçimlerini değiştiriyor.",0.36098146438598633
+Artificial intelligence is helping improve customer experiences.,"Yapay zeka, müşteri deneyimlerini geliştirmeye yardımcı olur.",0.3028852939605713
+The use of drones in delivery services is becoming more widespread.,Teslimat hizmetlerinde drone kullanımı giderek yaygınlaşıyor.,0.31160593032836914
+Virtual assistants are helping people manage their daily tasks.,"Sanal asistanlar, insanların günlük görevlerini yönetmelerine yardımcı olur.",0.32071685791015625
+3D printing is being used in the medical field for prosthetics and implants.,"3D baskı, prostetik ve implantlar için tıbbi alanda kullanılıyor.",0.3635265827178955
+Electric cars are becoming more affordable for consumers.,Elektrikli araçlar tüketicilere daha uygun hale geliyor.,0.268054723739624
+Cloud storage is becoming increasingly popular for personal and business data.,Bulut depolama kişisel ve iş verileri için giderek daha popüler hale geliyor.,0.41660237312316895
+The growth of streaming platforms is changing how people consume media.,"Streaming platformlarının büyümesi, insanların medyayı nasıl tükettiğini değiştiriyor.",0.383591890335083
+"AI is revolutionizing industries such as healthcare, finance, and logistics.","Yapay zeka, sağlık, finans ve lojistik gibi endüstrileri devrimci hale getiriyor.",0.4078211784362793
+The digital economy is creating new opportunities for innovation.,"Dijital ekonomi, yenilik için yeni fırsatlar yaratıyor.",0.2839038372039795
+The use of AI in marketing is helping brands target the right audience.,"Pazarlamada yapay zeka kullanımı, markaların doğru seyirciyi hedeflemesine yardımcı olur.",0.4261767864227295
+Artificial intelligence is helping detect diseases in medical imaging.,"Yapay zeka, tıbbi görüntülerde hastalıkları tespit etmeye yardımcı olur.",0.3758113384246826
+Sustainable development is crucial for protecting the planet.,"Sürdürülebilir kalkınma, gezegenin korunması için çok önemlidir.",0.36434149742126465
+Data mining is uncovering patterns and trends in large datasets.,"Veri madenciliği, büyük veri kümelerinde modeller ve eğilimleri keşfeder.",0.37855100631713867
+The rise of wearable devices is changing how we track health metrics.,"Taşınabilir cihazların yükselişi, sağlık metriklerini nasıl izlediğimizi değiştiriyor.",0.42508554458618164
+Artificial intelligence is being used in autonomous vehicles.,Yapay zeka otonom araçlarda kullanılmaktadır.,0.2372117042541504
+Digital currencies are challenging traditional banking systems.,Dijital para birimleri geleneksel bankacılık sistemlerini zorlaştırıyor.,0.3366062641143799
+Cloud computing is making business operations more flexible.,Bulut bilgisayarları iş faaliyetlerini daha esnek hale getiriyor.,0.2870290279388428
+The future of technology lies in innovation and sustainable practices.,Teknolojinin geleceği yenilik ve sürdürülebilir uygulamalar içindedir.,0.35331034660339355
+Social networks are changing the way people interact and share information.,"Sosyal ağlar, insanların iletişim kurma ve bilgi paylaşma biçimlerini değiştiriyor.",0.38093113899230957
+The rise of telemedicine is improving access to healthcare.,"Telemedinin artması, sağlık hizmetlerine erişimin iyileştirilmesidir.",0.35906457901000977
+Online privacy laws are evolving to protect user data.,Kullanıcı verilerini korumak için çevrimiçi gizlilik yasaları gelişiyor.,0.3589019775390625
+The internet of things is making our homes smarter and more connected.,Şeylerin İnterneti evlerimizi daha akıllı ve daha bağlantılı hale getiriyor.,0.3718421459197998
+The global digital economy is reshaping industries and markets.,Küresel dijital ekonomi endüstrileri ve pazarları yeniden canlandırıyor.,0.3521232604980469
+AI and automation are reshaping the manufacturing sector.,"AI ve otomasyon, üretim sektörünü yeniden canlandırıyor.",0.2991673946380615
+Blockchain is being used to secure personal and financial transactions.,"Blockchain, kişisel ve finansal işlemleri sağlamak için kullanılıyor.",0.3780350685119629
+The adoption of renewable energy is crucial for sustainable growth.,Yenilenebilir enerjinin uygulanması sürdürülebilir büyüme için çok önemlidir.,0.4721372127532959
+Artificial intelligence is being used to automate customer support services.,"Yapay zeka, müşteri desteği hizmetlerini otomatikleştirmek için kullanılır.",0.4399759769439697
+Electric vehicles are reducing the carbon footprint of transportation.,Elektrikli araçlar ulaşımın karbon izini azaltıyor.,0.3777785301208496
+Data science is transforming how businesses make decisions.,"Bilgi teknolojisi, şirketlerin nasıl karar vereceğini değiştiriyor.",0.38686585426330566
+The use of technology in healthcare is improving patient outcomes.,"Sağlık alanında teknolojinin kullanımı, hastaların sonuçlarını iyileştirmektir.",0.40833330154418945
+Renewable energy sources are helping reduce the world's dependence on fossil fuels.,"Yenilenebilir enerji kaynakları, dünyanın fosil yakıtlara olan bağımlılığını azaltmaya yardımcı oluyor.",0.5728070735931396
+The rise of smart cities is improving urban living conditions.,Akıllı şehirlerin yükselişi kentsel yaşam koşullarını iyileştirir.,0.6203222274780273
+The quick brown fox jumps over the lazy dog.,"Hızlı kahverengi fox, yumuşak köpeğin üstüne atlar.",0.4086034297943115
+Artificial intelligence is changing the world.,Yapay zeka dünyayı değiştiriyor.,0.21563959121704102
+Machine learning is a subset of artificial intelligence.,Makine öğrenimi yapay zeka alt kümesidir.,0.2865438461303711
+Natural language processing helps machines understand human language.,Doğal dil işleme makinelerin insan dilini anlamalarına yardımcı olur.,0.31284666061401367
+Deep learning models are a type of neural network.,Derin öğrenme modelleri bir tür sinir ağıdır.,0.29521799087524414
+Data science is an interdisciplinary field that uses scientific methods.,"Bilgi Bilimi, bilimsel yöntemleri kullanan disiplinlerarası bir alandır.",0.34030961990356445
+The weather today is sunny with a slight breeze.,Bugün hava hafif bir fırtına ile güneşli.,0.28498387336730957
+I love reading books about technology and science.,Teknoloji ve bilim hakkında kitap okumayı çok seviyorum.,0.2707047462463379
+Humans and computers are collaborating more than ever before.,İnsanlar ve bilgisayarlar her zamankinden daha fazla işbirliği yapıyor.,0.3530921936035156
+The internet has revolutionized how we communicate and share information.,"İnternet, iletişim ve bilgi paylaşımını devrimci hale getirdi.",0.38163065910339355
+Space exploration is one of humanity's greatest achievements.,Uzay keşfi insanlığın en büyük başarılarından biridir.,0.27968907356262207
+Electric cars are becoming more popular in modern society.,Elektrikli araçlar modern toplumda giderek daha popüler hale geliyor.,0.30603480339050293
+The stock market can be unpredictable and volatile.,Borsa tahmin edilemez ve değişken olabilir.,0.27283143997192383
+Climate change is a global challenge that needs urgent attention.,"İklim değişikliği, acil bir dikkat gerektiren küresel bir meydan okuma.",0.44153404235839844
+Cybersecurity is crucial to protect data from malicious attacks.,Bilgisayar güvenliği kötü amaçlı saldırılardan veri korumak için çok önemlidir.,0.3570873737335205
+Smartphones have become an essential part of daily life.,Akıllı telefonlar günlük yaşamın önemli bir parçası haline gelmiştir.,0.30052971839904785
+Social media platforms influence how people interact online.,"Sosyal medya platformları, insanların çevrimiçi nasıl etkileşime girdiğini etkiler.",0.40897631645202637
+The internet of things is making everyday devices smarter.,"Her şeyin interneti, günlük cihazları daha akıllı hale getiriyor.",0.3013176918029785
+Renewable energy sources like solar power are growing in popularity.,Güneş enerjisi gibi yenilenebilir enerji kaynakları popülerlikte artıyor.,0.36297607421875
+Globalization is shaping economies and cultures around the world.,"Küreselleşme, dünyadaki ekonomileri ve kültürleri şekillendiriyor.",0.3573954105377197
+The healthcare industry is undergoing rapid technological advancements.,Sağlık sektörü hızlı teknolojik gelişmelere maruz kalıyor.,0.26224422454833984
+Robots are performing tasks that were once done by humans.,Robotlar bir zamanlar insanlar tarafından yapılmış olan görevleri yerine getiriyorlar.,0.32624101638793945
+Quantum computing has the potential to revolutionize many industries.,"Kuantum bilgisayar, birçok endüstriyi devrimci hale getirme potansiyeline sahiptir.",0.4345054626464844
+The pandemic has changed the way people work and live.,"Panda, insanların nasıl çalıştıklarını ve yaşadıklarını değiştirdi.",0.2859494686126709
+Artificial intelligence is used in voice assistants like Siri.,"Yapay zeka, Siri gibi ses asistanlarında kullanılır.",0.25943756103515625
+The rise of e-commerce is changing traditional retail models.,E-ticaret artışı geleneksel perakende modellerini değiştiriyor.,0.34058570861816406
+Self-driving cars are expected to be common on the roads in the future.,Gelecekte otomobiller yollarda yaygın olacak.,0.30118727684020996
+Big data is transforming how businesses make decisions.,"Büyük veriler, işletmelerin karar verme biçimini dönüştürüyor.",0.30106496810913086
+The advancement of 5G technology is improving mobile connectivity.,"5G teknolojisinin gelişimi, mobil bağlantıların geliştirilmesidir.",0.3131587505340576
+Social distancing is a measure to prevent the spread of infectious diseases.,"Sosyal uzaklaştırma, bulaşıcı hastalıkların yayılmasını önlemek için bir önlemdir.",0.42920970916748047
+Technology is reshaping how we learn and access information.,"Teknoloji, nasıl öğreneceğimizi ve bilgi edineceğimizi yeniden canlandırıyor.",0.4480719566345215
+Gaming has evolved into a multi-billion dollar industry.,"Oyunlar, milyar dolarlık bir endüstriye dönüşmüştür.",0.36451029777526855
+Smart home devices can automate daily tasks like controlling lights.,"Akıllı ev cihazları, kontrol ışıkları gibi günlük görevleri otomatik hale getirebilir.",0.4542059898376465
+SpaceX is working towards making space travel more affordable.,"SpaceX, uzay yolculuğunu daha uygun hale getirmek için çalışıyor.",0.4331247806549072
+3D printing is changing how we produce goods and objects.,"3D baskı, ürün ve nesnelerin nasıl üretildiğini değiştiriyor.",0.4524376392364502
+The development of AI in healthcare is improving diagnosis accuracy.,"Sağlık alanında AI’nin geliştirilmesi, teşhis doğruluğunu iyileştirir.",0.41927480697631836
+Virtual reality is being used for immersive gaming experiences.,Sanal gerçeklik etkileyici oyun deneyimleri için kullanılır.,0.37360596656799316
+Smart watches are tracking our health metrics in real time.,Akıllı saatler sağlık metriklerimizi gerçek zamanlı olarak izliyor.,0.43005990982055664
+Cloud computing has made data storage more accessible and scalable.,"Bulut bilgisayar, veri depolamasını daha erişilebilir ve ölçeklenebilir hale getirdi.",0.49787116050720215
+Education systems are integrating technology into their curriculums.,Eğitim sistemleri teknolojiyi ders programlarına entegre ediyor.,0.2819685935974121
+Electric vehicles are more environmentally friendly than gasoline cars.,Elektrikli araçlar benzinli araçlardan daha çevre dostu.,0.3109109401702881
+Machine translation helps break down language barriers.,"Makine çevirisi, dil engellerini kırmaya yardımcı olur.",0.2974400520324707
+The rise of remote work is shifting workplace dynamics.,"Uzaktan çalışma dinamiklerinin yükselişi, çalışma alanının dinamiklerini değiştirir.",0.3692460060119629
+Electric bikes are becoming a popular alternative to cars.,Elektrikli bisikletler otomobiller için popüler bir alternatif haline geliyor.,0.34650325775146484
+Augmented reality is enhancing user experiences in retail.,"Gelişmiş gerçeklik, kullanıcı deneyimlerini perakende sektöründe geliştirir.",0.3610508441925049
+Blockchain technology is changing the way we store and transfer data.,"Blockchain teknolojisi, veri depolama ve aktarma yolunu değiştiriyor.",0.37286949157714844
+The rapid growth of e-learning platforms is revolutionizing education.,E-öğrenme platformlarının hızlı büyümesi eğitimini devrimci hale getiriyor.,0.4015028476715088
+Climate change is affecting weather patterns worldwide.,İklim değişikliği dünya çapında hava koşullarını etkiler.,0.30562853813171387
+The gig economy is changing how people approach work and employment.,"Gig ekonomisi, insanların iş ve işe nasıl yaklaştıklarını değiştiriyor.",0.35634660720825195
+Robots are being used in manufacturing for greater efficiency.,Robotlar daha yüksek verimlilik için üretimde kullanılıyor.,0.26268863677978516
+Autonomous drones are being developed for delivery services.,Teslimat hizmetleri için otonom drone geliştiriliyor.,0.28281736373901367
+Artificial intelligence is improving the accuracy of medical diagnoses.,"Yapay zeka, tıbbi teşhislerin doğruluğunu arttırır.",0.3436002731323242
+Technology is driving innovation in agriculture through automation.,"Teknoloji, otomasyon yoluyla tarımda yenilikleri teşvik ediyor.",0.3129892349243164
+Data privacy is a growing concern in the digital age.,"Verilerin gizliliği, dijital çağda artan bir kaygıdır.",0.34684062004089355
+Sustainable development is a key focus for future generations.,"Sürdürülebilir kalkınma, gelecek nesiller için önemli bir odak noktasıdır.",0.3723766803741455
+Mobile applications are transforming industries like healthcare and finance.,Mobil uygulamalar sağlık ve finans gibi endüstrileri dönüştürüyor.,0.2919151782989502
+Artificial intelligence can help detect fraudulent activities in banking.,"Yapay zeka, bankacılıkta dolandırıcılık faaliyetlerini tespit etmeye yardımcı olabilir.",0.40608668327331543
+Wearable technology is changing how we track fitness and health.,"Taşınabilir teknoloji, fitness ve sağlığı nasıl izlediğimizi değiştiriyor.",0.35852837562561035
+The use of renewable energy is crucial for a sustainable future.,"Yenilenebilir enerji kullanımı, sürdürülebilir bir gelecek için çok önemlidir.",0.3270397186279297
